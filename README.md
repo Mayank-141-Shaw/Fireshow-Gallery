@@ -1,3 +1,8 @@
+# Fireshow - Gallery
+
+<img src="https://github.com/Mayank-141-Shaw/Fireshow-Gallery/blob/main/fornt-page.jpg" alt="Gallery app" />
+#### A preview of the gallery application
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
